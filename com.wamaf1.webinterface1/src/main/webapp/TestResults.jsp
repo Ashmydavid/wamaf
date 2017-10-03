@@ -30,7 +30,7 @@
 <tr>
 <% String[] stArray={"bob","riche","jacky","rosy"}; 
 
-for (int j=0;j<10;j++){
+for (int j=0;j<15;j++){
     out.print("<tr></tr>");    
 
  for (int i=0;i<stArray.length;i++){
