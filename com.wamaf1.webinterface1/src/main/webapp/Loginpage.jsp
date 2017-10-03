@@ -59,7 +59,6 @@ fieldset input#loginbut{
 </head>
 <body>
 	<div id="centrecol">
-	
 	<h1>Automation Framework</h1>
 	
 		<form action="Homepage.jsp" method="post">
