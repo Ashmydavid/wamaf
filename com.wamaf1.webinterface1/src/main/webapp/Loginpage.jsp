@@ -62,7 +62,7 @@ fieldset input#loginbut{
 	
 	<h1>Automation Results</h1>
 	
-		<form action="Homepage.jsp" method="post">
+		<form action="Login" method="post">
 	
 			<fieldset>
 				<legend>Log In</legend>
@@ -79,9 +79,6 @@ fieldset input#loginbut{
 					
 			</fieldset>
 		</form>
-	
-
-
 	
 	
 	</div>
