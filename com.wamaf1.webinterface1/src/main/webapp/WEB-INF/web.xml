@@ -8,6 +8,7 @@
   	<servlet-name>Login</servlet-name>
   	<display-name>Login</display-name>
   	<description></description>
+<<<<<<< HEAD
   	<servlet-class>com.wamaf.Login</servlet-class>
   </servlet>
   <servlet>
@@ -23,5 +24,32 @@
   <servlet-mapping>
   	<servlet-name>Result</servlet-name>
   	<url-pattern>/Result</url-pattern>
+=======
+  	<servlet-class>com.wamaf1.webinterface1.Login</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>Logout</servlet-name>
+  	<display-name>Logout</display-name>
+  	<description></description>
+  	<servlet-class>com.wamaf1.webinterface1.Logout</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>Login1</servlet-name>
+  	<display-name>Login1</display-name>
+  	<description></description>
+  	<servlet-class>test.Login</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>Login</servlet-name>
+  	<url-pattern>/Login</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>Logout</servlet-name>
+  	<url-pattern>/Logout</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>Login1</servlet-name>
+  	<url-pattern>/Login1</url-pattern>
+>>>>>>> branch 'master' of https://github.com/Ashmydavid/wamaf.git
   </servlet-mapping>
 </web-app>

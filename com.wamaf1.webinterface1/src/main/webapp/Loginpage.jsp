@@ -59,9 +59,14 @@ fieldset input#loginbut{
 </head>
 <body>
 	<div id="centrecol">
+<<<<<<< HEAD
 	<h1>Automation Framework</h1>
+=======
 	
-		<form action="Homepage.jsp" method="post">
+	<h1>Automation Results</h1>
+>>>>>>> branch 'master' of https://github.com/Ashmydavid/wamaf.git
+	
+		<form action="Login" method="post">
 	
 			<fieldset>
 				<legend>Log In</legend>
@@ -78,9 +83,6 @@ fieldset input#loginbut{
 					
 			</fieldset>
 		</form>
-	
-
-
 	
 	
 	</div>
