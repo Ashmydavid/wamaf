@@ -60,12 +60,20 @@ fieldset input#loginbut{
 <body>
 	<div id="centrecol">
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<h1>Automation Framework</h1>
+=======
 =======
 	
 	<h1>Automation Results</h1>
 >>>>>>> branch 'master' of https://github.com/Ashmydavid/wamaf.git
 	
+<<<<<<< HEAD
+	<h1>Automation Results</h1>
+>>>>>>> branch 'master' of https://github.com/Ashmydavid/wamaf.git
+	
+=======
+>>>>>>> branch 'master' of https://github.com/Ashmydavid/wamaf.git
 		<form action="Login" method="post">
 	
 			<fieldset>

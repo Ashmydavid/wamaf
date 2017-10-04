@@ -2,6 +2,11 @@
     <wb-module deploy-name="com.wamaf1.webinterface1">
         <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+<<<<<<< HEAD
+=======
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+>>>>>>> branch 'master' of https://github.com/Ashmydavid/wamaf.git
         <property name="context-root" value="com.wamaf1.webinterface1"/>
         <property name="java-output-path" value="/com.wamaf1.webinterface1/target/classes"/>
     </wb-module>
